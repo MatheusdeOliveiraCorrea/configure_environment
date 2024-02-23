@@ -1,0 +1,6 @@
+
+https://github.com/TheAssassin/AppImageLauncher/releases/download/v2.2.0/appimagelauncher-2.2.0-travis995.0f91801.x86_64.rpm
+
+https://github.com/kotatogram/kotatogram-desktop/releases/download/k1.4.8/1.4.8-linux.tar.xz
+
+https://www.pcloud.com/how-to-install-pcloud-drive-linux.html?download=electron-64
