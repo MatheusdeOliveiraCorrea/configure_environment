@@ -1,7 +1,7 @@
 #! /usr/bin/bash
 
 # tries to create an app images folder on home directory 
-mkdir -p /home/matheus/Applications_AppImages
+mkdir -p ~/Applications_AppImages
 
 mkdir -p ~/temp
 
