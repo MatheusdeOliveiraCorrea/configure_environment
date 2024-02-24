@@ -3,4 +3,5 @@ https://github.com/TheAssassin/AppImageLauncher/releases/download/v2.2.0/appimag
 
 https://github.com/kotatogram/kotatogram-desktop/releases/download/k1.4.8/1.4.8-linux.tar.xz
 
-https://www.pcloud.com/how-to-install-pcloud-drive-linux.html?download=electron-64
+https://p-def8.pcloud.com/cBZhAdm5UZxQy2AF7ZgaGD7ZZF8zB7kZ2ZZoaRZkZRhhxVZHFZxLZi7ZT8ZnRZKFZM0ZvRZNpZcRZ6LZezZlpZFRZDh750Zu6dLSI6swCpiURmI7aEC300HaieX/pcloud
+

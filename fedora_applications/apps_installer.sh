@@ -24,8 +24,11 @@ sudo dnf -y install zsh
 # install ohmyzsh
 sh -c "$(wget -O- https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
 
-#https://github.com/kotatogram/kotatogram-desktop/releases/download/k1.4.8/1.4.8-linux.tar.xz
-
 # install chromium web browser
 sudo dnf -y install chromium
+
+# install app images
+sudo wget -i ./download_urls.txt -P ~/temp
+
+
 
